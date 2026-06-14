@@ -6,6 +6,7 @@ The platform helps users find relevant insurance experts in Germany by location,
 Website: https://versipedia.de/
 Insurance Check: https://versipedia.de/versicherungs-check
 Insurance Blog: https://versipedia.de/blog
+Insurance quiz: https://versipedia.de/analyse
 
 ---
 
